@@ -6,3 +6,4 @@ print("This is my first Python project.")
 
 name = input("Enter your name: ")
 print("Welcome,", name)
+print("New feature: Greeting branch completed.")
